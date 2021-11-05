@@ -1,3 +1,4 @@
 var name = "Nicole"
-var age = 29
+var age = "twenty nine"
 var heightInches = 68
+var numberFavorite = 45
